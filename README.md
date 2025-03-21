@@ -1,7 +1,7 @@
 # MasterFab
-Your easy solution to PlayFab integration.
+## Your easy solution to PlayFab integration.
 
-## How to import
+### How to import
 
 First, import the [PlayFab UnitySDK](https://aka.ms/PlayFabUnitySdk).
 Next, import the latest release of [MasterFab](https://github.com/HeldForRansom/MasterFab/releases/latest).
