@@ -1,6 +1,12 @@
 # MasterFab, Your easy solution to PlayFab integration.
 
-### How to import
+## Important
+
+
+If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom/Stash Studios.
+
+
+## How to import
 
 
 First, import the [PlayFab UnitySDK](https://aka.ms/PlayFabUnitySdk).
