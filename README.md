@@ -3,7 +3,7 @@
 ## Important
 
 
-If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom/Stash Studios.
+If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom/Stash Studios LLC.
 
 
 ## How to import
