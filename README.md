@@ -20,3 +20,8 @@ Fill in your TitleID and Developer Secret Key.
 
 
 Finally, drag the prefab into the Hierarchy under Resources > MasterFab > Prefabs
+
+
+## Documentation
+
+Coming soon.
