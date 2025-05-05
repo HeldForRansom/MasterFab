@@ -2,7 +2,7 @@
 
 ## Important
 
-Many of the MasterFab code was updated in V4, if you have a version below, be careful when updating.
+**Many of the MasterFab code was updated in V4, if you have a version below, be careful when updating.**
 
 If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom/Stash Studios LLC.
 
