@@ -1,28 +1,10 @@
+<img width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/2eaad014-550e-4fb2-b8c7-3f1cb9d16de9" />
+
 # MasterFab, Your easy solution to PlayFab integration.
 
+![Static Badge](https://img.shields.io/badge/Download-00FF00?link=https%3A%2F%2Fgithub.com%2FHeldForRansom%2FMasterFab%2Freleases%2Flatest)
+![Static Badge](https://img.shields.io/badge/Documentation-8A2BE2?link=https%3A%2F%2Fmasterfab.gitbook.io%2Fmasterfab)
+
 ## Important
-
-**Many of the MasterFab code was updated in V4, if you have a version below, be careful when updating.**
-
-If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom/Stash Studios LLC.
-
-
-## How to import
-
-
-First, import the [PlayFab UnitySDK](https://aka.ms/PlayFabUnitySdk).
-
-Next, import the latest release of [MasterFab](https://github.com/HeldForRansom/MasterFab/releases/latest).
-
-
-Once imported, find the PlayFabSharedSettings under Assets > PlayFabSDK > Shared > Public > Resources
-
-Fill in your TitleID and Developer Secret Key.
-
-
-Finally, drag the prefab into the Hierarchy under Resources > MasterFab > Prefabs
-
-
-## Documentation
-
-Coming soon.
+### Many references were updated in V5, please update and see the documentation.
+If you use MasterFab, please resepect the MIT License as well as credit HeldForRansom.
